@@ -1,0 +1,58 @@
+{
+    "categorical_columns": [
+        "heating",
+        "fuel",
+        "sewer",
+        "waterfront",
+        "newConstruction",
+        "centralAir"
+    ],
+    "numerical_columns": [
+        "lotSize",
+        "age",
+        "landValue",
+        "livingArea",
+        "pctCollege",
+        "bedrooms",
+        "fireplaces",
+        "bathrooms",
+        "rooms",
+        "price"
+    ],
+    "encoded_columns": [
+        "lotSize",
+        "age",
+        "landValue",
+        "livingArea",
+        "pctCollege",
+        "bedrooms",
+        "fireplaces",
+        "bathrooms",
+        "rooms",
+        "heating_hot air",
+        "heating_hot water/steam",
+        "fuel_gas",
+        "fuel_oil",
+        "sewer_public/commercial",
+        "sewer_septic",
+        "waterfront_Yes",
+        "newConstruction_Yes",
+        "centralAir_Yes"
+    ],
+    "pca_columns": [
+        "PC1",
+        "PC2",
+        "PC3",
+        "PC4",
+        "PC5",
+        "PC6",
+        "PC7",
+        "PC8",
+        "PC9",
+        "PC10",
+        "PC11",
+        "PC12",
+        "PC13",
+        "PC14"
+    ]
+}
