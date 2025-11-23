@@ -1,0 +1,32 @@
+{
+  "modelo_ganador": "Lasso",
+  "R2_test": 0.6402008227706408,
+  "RMSE_test": 53607.80881413557,
+  "MAE_test": 40053.034728906096,
+  "columnas_esperadas": [
+    "PC1",
+    "PC2",
+    "PC3",
+    "PC4",
+    "PC5",
+    "PC6",
+    "PC7",
+    "PC8",
+    "heating___electric",
+    "heating___hot air",
+    "heating___hot water/steam",
+    "fuel___electric",
+    "fuel___gas",
+    "fuel___oil",
+    "sewer___none",
+    "sewer___public/commercial",
+    "sewer___septic",
+    "waterfront___No",
+    "waterfront___Yes",
+    "newConstruction___No",
+    "newConstruction___Yes",
+    "centralAir___No",
+    "centralAir___Yes"
+  ],
+  "fecha_guardado": "2025-11-22 19:07:21"
+}
